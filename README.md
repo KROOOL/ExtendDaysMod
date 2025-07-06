@@ -14,6 +14,7 @@ Any issue or bug, pls tell me!
 
 ## Manual Installation
 1. Install BepInEx
+2. Install LobbyCompatibility (https://thunderstore.io/c/lethal-company/p/BMX/LobbyCompatibility/)
 2. Extract ExtendDaysMod.dll into the plugins folder of BepInEx
 
 ## Credit

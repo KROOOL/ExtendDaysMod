@@ -5,7 +5,7 @@
   "description": "Extends the deadline based on profit quota.",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2100",
-    "TeamBMX-LobbyCompatibility-1.5.1"
+    "BMX-LobbyCompatibility-1.5.1"
   ],
   "website_url": "https://github.com/KROOOL/ExtendDaysMod",
   "FullName": "KROOOL-ExtendDays"
