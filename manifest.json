@@ -1,0 +1,9 @@
+{
+  "name": "ExtendDays",
+  "version_number": "1.0.0",
+  "description": "Extend days for the Quota.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100",
+    "BMX.LobbyCompatibility"
+  ]
+}
